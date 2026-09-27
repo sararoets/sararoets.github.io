@@ -1,0 +1,19 @@
+body {
+    font-family: serif;
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+    font-size: 5em;
+}
+
+h2 {
+    color: palevioletred;
+    font-style: italic;
+}
+
+img {
+    margin-left: 50px;
+
+}
